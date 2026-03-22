@@ -1,17 +1,16 @@
-# customer_behavior_analysis
-📊 Customer Behavior Analysis
+#📊 Customer Behavior Analysis
 
 «🚀 Turning raw data into meaningful business insights»
 
 ---
 
-🔍 About the Project
+#🔍 About the Project
 
 This project analyzes customer shopping behavior to identify trends, patterns, and valuable insights that help businesses improve decision-making and maximize revenue.
 
 ---
 
-⚡ Highlights
+#⚡ Highlights
 
 ✔️ Customer segmentation based on spending
 ✔️ Product category performance analysis
@@ -20,7 +19,7 @@ This project analyzes customer shopping behavior to identify trends, patterns, a
 
 ---
 
-🧑‍💻 Tech Stack
+#🧑‍💻 Tech Stack
 
 - Python – Data analysis
 - Pandas – Data manipulation
@@ -29,14 +28,14 @@ This project analyzes customer shopping behavior to identify trends, patterns, a
 
 ---
 
-📸 Dashboard
+#📸 Dashboard
 
 🖥️ Preview your dashboard here:
 👉 "View Dashboard" (customer behavior dashboard.png)
 
 ---
 
-📂 Files Included
+#📂 Files Included
 
 File Name| Description
 📓 Notebook| Data cleaning & EDA
@@ -47,7 +46,7 @@ File Name| Description
 
 ---
 
-📈 Insights Gained
+#📈 Insights Gained
 
 🔹 Customers with higher frequency generate more revenue
 🔹 Discounts significantly influence purchase decisions
@@ -56,7 +55,7 @@ File Name| Description
 
 ---
 
-🚀 Getting Started
+#🚀 Getting Started
 
 # Clone the repository
 git clone YOUR_REPO_LINK
@@ -70,7 +69,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-🎯 Project Goal
+#🎯 Project Goal
 
 To help businesses:
 
@@ -80,14 +79,14 @@ To help businesses:
 
 ---
 
-👩‍💻 Author
+#👩‍💻 Author
 
 Dipika J
 ✨ Aspiring Data Analyst
 
 ---
 
-🌟 Show Your Support
+#🌟 Show Your Support
 
 If you found this project helpful:
 ⭐ Star this repository
