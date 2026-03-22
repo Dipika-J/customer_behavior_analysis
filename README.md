@@ -1,25 +1,25 @@
-#📊 Customer Behavior Analysis
+# 📊 Customer Behavior Analysis
 
 «🚀 Turning raw data into meaningful business insights»
 
 ---
 
-#🔍 About the Project
+# 🔍 About the Project
 
 This project analyzes customer shopping behavior to identify trends, patterns, and valuable insights that help businesses improve decision-making and maximize revenue.
 
 ---
 
-#⚡ Highlights
+# ⚡ Highlights
 
-✔️ Customer segmentation based on spending
-✔️ Product category performance analysis
-✔️ Revenue comparison across users
+✔️ Customer segmentation based on spending<br>
+✔️ Product category performance analysis<br>
+✔️ Revenue comparison across users<br>
 ✔️ Impact of discounts & subscriptions
 
 ---
 
-#🧑‍💻 Tech Stack
+# 🧑‍💻 Tech Stack
 
 - Python – Data analysis
 - Pandas – Data manipulation
@@ -28,48 +28,50 @@ This project analyzes customer shopping behavior to identify trends, patterns, a
 
 ---
 
-#📸 Dashboard
+# 📸 Dashboard
 
-🖥️ Preview your dashboard here:
-👉 "View Dashboard" (customer behavior dashboard.png)
+- 👉 "View Dashboard" <img width="1168" height="640" alt="customer behavior dashboard" src="https://github.com/user-attachments/assets/306cdc8d-4aeb-403f-bb1c-cd7a03692141" />
 
----
-
-#📂 Files Included
-
-File Name| Description
-📓 Notebook| Data cleaning & EDA
-🗄️ SQL File| Business queries
-📊 Power BI| Dashboard
-📄 PDF Report| Project explanation
-📁 Dataset| Raw data
 
 ---
 
-#📈 Insights Gained
+# 📂 Files Included
 
-🔹 Customers with higher frequency generate more revenue
-🔹 Discounts significantly influence purchase decisions
-🔹 Certain product categories dominate sales
-🔹 Loyal customers contribute the most profit
+File Name| Description<br>
+📓 Notebook| Data cleaning & EDA<br>
+🗄️ SQL File| Business queries<br>
+📊 Power BI| Dashboard<br>
+📄 PDF Report| Project explanation<br>
+📁 Dataset| Raw data<br>
 
 ---
 
-#🚀 Getting Started
+# 📈 Insights Gained
+
+🔹 Customers with higher frequency generate more revenue<br>
+🔹 Discounts significantly influence purchase decisions<br>
+🔹 Certain product categories dominate sales<br>
+🔹 Loyal customers contribute the most profit<br>
+
+---
+
+# 🚀 Getting Started
 
 # Clone the repository
-git clone YOUR_REPO_LINK
+git clone https://github.com/Dipika-J/customer_behavior_analysis.git
 
 # Install required libraries
 pip install pandas numpy matplotlib seaborn
 
-▶️ Open Jupyter Notebook and run all cells
-▶️ Execute SQL queries in your database
-▶️ Open Power BI file to explore dashboard
+▶️ Open Jupyter Notebook and run all cells<br>
+
+▶️ Execute SQL queries in your database<br>
+
+▶️ Open Power BI file to explore dashboard<br>
 
 ---
 
-#🎯 Project Goal
+# 🎯 Project Goal
 
 To help businesses:
 
@@ -79,15 +81,14 @@ To help businesses:
 
 ---
 
-#👩‍💻 Author
+# 👩‍💻 Authors
 
-Dipika J
-✨ Aspiring Data Analyst
-
+Dipika J<br>
+Dhiwakar M<br>
+🤝 This is a mini project developed collaboratively, though maintained in separate repositories.<br>
 ---
 
-#🌟 Show Your Support
-
-If you found this project helpful:
-⭐ Star this repository
-📢 Share with others
+# 🌟 Show Your Support
+If you found this project helpfull:<br>
+⭐ Star this repository<br>
+📢 Share with others<br>
