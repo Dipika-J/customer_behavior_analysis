@@ -84,10 +84,12 @@ To help businesses:
 # 👩‍💻 Authors
 ##### Dipika J
 ##### Dhiwakar M
-##### 🤝 This is a mini project developed collaboratively, though maintained in separate repositories.<br>
+🤝 This project was developed collaboratively, though maintained in separate repositories.<br>
+
 ---
 
 # 🌟 Show Your Support
-If you found this project helpfull:<br>
+If you found this project helpful:<br>
 ⭐ Star this repository<br>
 📢 Share with others<br>
+
