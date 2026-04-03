@@ -10,6 +10,12 @@ This project analyzes customer shopping behavior to identify trends, patterns, a
 
 ---
 
+## 🚀 Live Demo
+👉 [View Dashboard](https://your-link-here)
+https://dipika-j.github.io/customer_behavior_analysis/
+
+---
+
 # ⚡ Highlights
 
 ✔️ Customer segmentation based on spending<br>
